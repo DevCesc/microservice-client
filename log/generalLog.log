@@ -1,0 +1,139 @@
+[{2022-11-24 15:28:22] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[{2022-11-24 15:29:04] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 15:30:02] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 16:32:31] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:00:54] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:01:29] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:04:29] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:04:43] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:04:52] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:04:55] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:05:49] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:05:49] [INFO ] [ClientServiceImpl:22] Service - Save Client
+[2022-11-24 17:05:57] [INFO ] [ClientController:29] Client(codCliente=2, nombre=Frank Alessandro, tipo=Empresarial, celular=968765423)
+[2022-11-24 17:05:57] [INFO ] [ClientServiceImpl:22] Service - Save Client
+[2022-11-25 13:03:36] [INFO ] [ClientController:29] Client(id=null, codClient=CLI2001, nombre=Frank Alessandro Rocha Horna, celular=968765423, category=Category(cod=2, description=Personal), date_reg=null)
+[2022-11-25 13:03:36] [INFO ] [ClientServiceImpl:22] Service - Save Client
+[2022-11-25 15:21:16] [INFO ] [ClientController:29] Client(id=null, codClient=CLI2002, nombre=Roberto Perez Garcia, celular=968765423, category=Category(cod=1, description=Empresarial), date_reg=null)
+[2022-11-25 15:21:16] [INFO ] [ClientServiceImpl:22] Service - Save Client
+[2022-11-25 15:25:57] [INFO ] [ClientController:29] Client(id=null, codClient=CLI2002, name=Roberto Perez Garcia, phone=968765423, category=Category(cod=1, description=Empresarial), date_reg=null)
+[2022-11-25 15:25:57] [INFO ] [ClientServiceImpl:22] Service - Save Client
+[2022-11-27 13:10:37] [INFO ] [ClientController:31] Client(id=null, codClient=CLI2003, name=Frank Rocha Garcia, phone=968764423, category=Category(cod=1, description=Empresarial), date_reg=null)
+[2022-11-27 13:10:37] [INFO ] [ClientServiceImpl:23] Service - Save Client
+[2022-11-27 13:15:37] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:16:12] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:16:12] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:16:42] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:16:42] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:18:34] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:18:34] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:18:46] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:18:46] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:19:50] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:19:50] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:21:08] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:21:08] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:25:32] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:25:32] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 13:25:33] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 13:25:33] [INFO ] [ClientServiceImpl:31] Ingreso a getOneClient FluxFilter
+[2022-11-27 14:13:35] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:13:36] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:13:37] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:14:27] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:14:54] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:14:57] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:15:31] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:15:32] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:21:48] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:23:54] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:26:39] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:31:18] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:31:19] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:31:28] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:31:29] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 14:31:37] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:43:36] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:43:37] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:43:38] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:43:38] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:43:53] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:44:42] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:46:08] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:46:09] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:51:23] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:52:14] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:52:32] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:53:32] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:54:30] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:56:47] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:56:47] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:57:26] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:58:26] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 19:58:30] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:01:29] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:01:30] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:01:31] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:02:10] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:03:34] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:03:34] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:05:34] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:05:35] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:05:45] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:05:45] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:05:58] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:08:03] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:08:03] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:09:47] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:09:48] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:09:48] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:09:50] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:11:52] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:11:53] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:14:55] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:14:55] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:14:56] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:15:26] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 20:15:27] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:17:15] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:17:15] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:18:31] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:18:32] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:18:32] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:20:25] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:20:25] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:22:05] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:22:29] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:22:30] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:23:22] [INFO ] [ClientController:32] Client(id=null, codClient=CLI2003, name=Frank Rocha Garcia, phone=968764423, category=1)
+[2022-11-27 22:23:22] [INFO ] [ClientServiceImpl:23] Service - Save Client
+[2022-11-27 22:23:36] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:23:47] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:23:48] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:24:01] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:24:02] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:25:53] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:25:53] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:25:54] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:30:35] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:30:36] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:30:50] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:32:53] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:32:57] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:32:58] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:33:26] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:33:44] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:33:46] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:33:49] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:34:27] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:34:31] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:36:05] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:36:08] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:36:11] [INFO ] [ClientServiceImpl:29] Ingreso a getOneClient 
+[2022-11-27 22:42:23] [INFO ] [ClientServiceImpl:27] Ingreso a getOneClient 
+[2022-11-27 23:03:43] [INFO ] [ClientServiceImpl:27] Ingreso a getOneClient 
+[2022-11-27 23:03:48] [INFO ] [ClientServiceImpl:27] Ingreso a getOneClient 
+[2022-11-27 23:03:52] [INFO ] [ClientServiceImpl:27] Ingreso a getOneClient 
+[2022-11-28 17:45:32] [INFO ] [ClientController:32] Client(id=null, codClient=C001, name=Pedro, phone=965854125, category=1)
+[2022-11-28 17:45:32] [INFO ] [ClientServiceImpl:21] Service - Save Client
+[2022-11-28 17:48:09] [INFO ] [ClientServiceImpl:27] Ingreso a getOneClient 
